@@ -20,6 +20,6 @@ Markup for employee card is generated using DOM manipulation.
 
 # Live Demo
 
-For live demo of this click:  
+For live demo of this click:  https://adityarawengg.github.io/Employee-List-JS/
 
 
